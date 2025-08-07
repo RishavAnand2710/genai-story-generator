@@ -1,0 +1,6 @@
+streamlit
+openai
+pyttsx3
+markdown
+transformers
+torch
